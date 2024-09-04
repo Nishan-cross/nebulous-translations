@@ -57,8 +57,8 @@
     <string name="SERVER">"MÁY CHỦ"</string>
     <string name="Joining_game_in_">"Vào phòng"</string>
     <string name="Game_Full">"Phòng đầy"</string>
-    <string name="US_East">"Đông Hoa Kỳ"</string>
-    <string name="US_West">"Tây Hoa Kỳ"</string>
+    <string name="US_East">"Trung Mỹ"</string>
+    <string name="US_West">"Bắc Mỹ"</string>
     <string name="Europe">"Châu Âu"</string>
     <string name="South_America">"Nam Mỹ"</string>
 
@@ -271,8 +271,8 @@
 
     <string name="CREATE_CLAN">"TẠO BĂNG ĐẢNG"</string>
     <string name="MEMBER">"THÀNH VIÊN"</string>
-    <string name="ADMIN">"ANH LỚN"</string>
-    <string name="LEADER">"TRÙM BĂNG ĐẢNG"</string>
+    <string name="ADMIN">"CHỦ PHÒNG"</string>
+    <string name="LEADER">"KẺ CẦM ĐẦU"</string>
     <string name="ELDER">"ĐÀN ANH"</string>
 
 
@@ -1314,6 +1314,7 @@ Lệnh:
     <string name="You_are_already_friends_">Các bạn đã là bạn.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Account must be 1 day old to send mail.</string>
     <string name="Translator">Người Dịch</string>
+    <string name="SUCCESS">SUCCESS</string>
 
 
     <string-array name="control_modes">
